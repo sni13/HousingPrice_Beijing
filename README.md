@@ -1,3 +1,3 @@
-# HousingPrice_Shanghai
+# HousingPrice_Beijing
 
 Utilizes various ML models to predict housing price in Beijing using datasets 2011-2017. 
